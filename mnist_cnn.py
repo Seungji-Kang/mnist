@@ -18,6 +18,7 @@ import matplotlib.pyplot as plt
 from PIL import Image
 import numpy as np
 import os
+import torch #Added SJ
 
 batch_size = 128
 num_classes = 10
