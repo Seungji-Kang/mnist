@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 from PIL import Image
 import numpy as np
 import os
-#neomuu Jjajungna T.T
+#neomuu Jjajungna T.T_2025.04.07.
 
 print("Tensorflow version :",tf.__version__)
 
